@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1","1","100nF","","","","Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm","~"
+"C2","1","10µF","","","","Capacitor_THT:CP_Radial_D5.0mm_P2.00mm","~"
+"R1","1","10kΩ","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"R2,R3","2","4.7kΩ","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"SW1","1","SW_MEC_5E","","","","Button_Switch_THT:SW_PUSH_6mm","http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371"
+"U1","1","XIAO-RP2040-DIP","","","","opl:XIAO-RP2040-DIP",""
+"U3","1","ATECC608A-SSHDA","","","","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-CryptoAuthentication-Device-Summary-Data-Sheet-DS40001977B.pdf"
