@@ -1,4 +1,4 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Link"
 "C1","1","100nF","","","","Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm","~"
 "C2","1","10µF","","","","Capacitor_THT:CP_Radial_D5.0mm_P2.00mm","~"
 "R1","1","10kΩ","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
